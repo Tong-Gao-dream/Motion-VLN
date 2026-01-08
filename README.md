@@ -18,7 +18,7 @@ Existing VLN-CE methods often face a "stop-and-go" limitation, treating navigati
 
 <div align="center">
   <!-- Place Figure 1 from the paper here -->
-  <img src="assets/1.png" alt="Concept Comparison" width="60%">
+  <img src="1.png" alt="Concept Comparison" width="60%">
   <br>
   <em>Difference between discrete waypoint observations (RGB-D) and Optical Flow motion maps.</em>
 </div>
@@ -39,7 +39,7 @@ Our framework consists of three progressive stages:
 
 <div align="center">
   <!-- Place Figure 2 from the paper here -->
-  <img src="assets/2.png" alt="Motion-VLN Pipeline" width="100%">
+  <img src="2.png" alt="Motion-VLN Pipeline" width="100%">
   <br>
   <em>Overall pipeline of the Motion-VLN framework.</em>
 </div>
