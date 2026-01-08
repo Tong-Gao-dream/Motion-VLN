@@ -39,7 +39,7 @@ Our framework consists of three progressive stages:
 
 <div align="center">
   <!-- Place Figure 2 from the paper here -->
-  <img src="2.png" alt="Motion-VLN Pipeline" width="100%">
+  <img src="2.png" alt="Motion-VLN Pipeline" width="60%">
   <br>
   <em>Overall pipeline of the Motion-VLN framework.</em>
 </div>
