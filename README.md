@@ -18,7 +18,7 @@ Existing VLN-CE methods often face a "stop-and-go" limitation, treating navigati
 
 <div align="center">
   <!-- Place Figure 1 from the paper here -->
-  <img src="1.png" alt="Concept Comparison" width="60%">
+  <img src="1.png" alt="Concept Comparison" width="50%">
   <br>
   <em>Difference between discrete waypoint observations (RGB-D) and Optical Flow motion maps.</em>
 </div>
